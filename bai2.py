@@ -91,8 +91,6 @@ print('Xóa phần tử có giá trị 0 đầu tiên: \n', list_ab)
 #Đếm số lần xuất hiện của một phần tử trong danh sách
 print('Danh sách ban đầu: \n',list_ab)
 
-#Số lần xuất hiện số 8 trong danh sách
-print('Số 8 xuất hiện: ', list_ab.count(8))
 
 #Số lần xuất hiện số 1 trong danh sách
 print('Số 1 xuất hiện: ', list_ab.count(1))
