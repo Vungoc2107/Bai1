@@ -14,9 +14,6 @@ print(list_so)
 person_info=['Mary',1998,'Tokyo,Japan',1.70,65]
 print(person_info)
 
-#Khai bao danh sach rỗng
-list_rong=[]
-print(list_rong)
 
 #Truy xuat du lieu trong danh sach:
 #Hien thi ten hoc sinh ơ vi tri thu 3
